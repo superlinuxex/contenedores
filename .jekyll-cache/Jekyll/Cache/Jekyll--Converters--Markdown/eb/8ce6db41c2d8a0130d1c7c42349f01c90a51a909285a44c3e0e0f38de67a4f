@@ -1,4 +1,4 @@
-I"?<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
+I"]<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
 
 <p><a href="./another-page.html">Link to another page</a>.</p>
 
@@ -13,22 +13,27 @@ Hemos seleccionado 6 proyectos open source que utilizan git como herramienta de 
 
 <h2 id="metodología">Metodología</h2>
 
-<p>Hemos utilizado <strong>GrimoireLab</strong> que es un conjunto de herramientas  open source basadas en Python para recuperar, organizar y visualizar datos de desarrollo de software.
-Recuperación de datos
+<p>Hemos utilizado <strong>GrimoireLab</strong> que es un conjunto de herramientas  open source basadas en Python para recuperar, organizar y visualizar datos relacionados con el desarrollo de software (Commit, Issues, Autores, Colaboradores).
 Lo proyectos alojados en Git que hemos analizado son:</p>
 
 <ul>
-  <li>Coreos</li>
   <li>Openshift</li>
-  <li>Docker</li>
   <li>Kubernetes</li>
+  <li>Docker</li>
+  <li>Coreos</li>
   <li>Ansible</li>
   <li>Cointainer</li>
   <li>Chef</li>
   <li>Puppet</li>
 </ul>
 
-<h3 id="header-3">Header 3</h3>
+<h3 id="relacion-entre-los-proyectos">Relacion entre los proyectos</h3>
+
+<p><img src="/assets/images/red_social_project.png" alt="red_social_project" /></p>
+
+<h3 id="areas-de-codigo">Areas de Codigo</h3>
+
+<p><img src="/assets/images/areas_codigo.png" alt="red_social_project" /></p>
 
 <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Javascript code with syntax highlighting.</span>
 <span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nx">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>

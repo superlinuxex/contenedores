@@ -1,5 +1,6 @@
 ---
 layout: default
+image: red_social_project.png
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -20,16 +21,23 @@ Hemos seleccionado 6 proyectos open source que utilizan git como herramienta de 
 Hemos utilizado **GrimoireLab** que es un conjunto de herramientas  open source basadas en Python para recuperar, organizar y visualizar datos relacionados con el desarrollo de software (Commit, Issues, Autores, Colaboradores).
 Lo proyectos alojados en Git que hemos analizado son:
 
-* Coreos
-* Openshift
-* Docker
+* Openshift 
 * Kubernetes
+* Docker
+* Coreos
 * Ansible
 * Cointainer
 * Chef
 * Puppet
 
-### Header 3
+
+### Relacion entre los proyectos 
+
+![red_social_project]({{ site.baseurl }}/assets/images/red_social_project.png)
+
+### Areas de Codigo
+
+![red_social_project]({{ site.baseurl }}/assets/images/areas_codigo.png)
 
 ```js
 // Javascript code with syntax highlighting.
