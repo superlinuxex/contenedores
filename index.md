@@ -10,15 +10,24 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# **Introducción**
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+El Open Source o código abierto ha cambiado la cultura de trabajo de los desarrolladores, supone un nuevo modelo de trabajo al que se están sumando las grandes compañías, esta nueva forma de colaboración esta alterando las reglas del juego en el mundo tecnológico y empresarial. El open source de esta era trata mas de estrategias comerciales corporativas que de comunidades independientes colaborando entre ellas. 
+Hemos seleccionado 6 proyectos open source que utilizan git como herramienta de colaboración. En este análisis nos centramos en la actividad de los desarrolladores tomando como referencia los 10 últimos meses contando desde marzo que fue cuando inicio de la pandemia del COVID-19.
 
-## Header 2
+## Metodología
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Hemos utilizado **GrimoireLab** que es un conjunto de herramientas  open source basadas en Python para recuperar, organizar y visualizar datos relacionados con el desarrollo de software (Commit, Issues, Autores, Colaboradores).
+Lo proyectos alojados en Git que hemos analizado son:
+
+* Coreos
+* Openshift
+* Docker
+* Kubernetes
+* Ansible
+* Cointainer
+* Chef
+* Puppet
 
 ### Header 3
 
