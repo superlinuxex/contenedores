@@ -15,12 +15,12 @@ Hemos seleccionado 6 proyectos open source que utilizan git como herramienta de 
 Hemos utilizado **GrimoireLab** que es un conjunto de herramientas  open source basadas en Python para recuperar, organizar y visualizar datos relacionados con el desarrollo de software (Commit, Issues, Autores, Colaboradores).
 Lo proyectos alojados en Git que hemos analizado son:
 
-* Openshift 
+* Openshift
 * Kubernetes
 * Docker
 * Coreos
-* Ansible
 * Cointainer
+* Ansible
 * Chef
 * Puppet
 
