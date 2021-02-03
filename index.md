@@ -39,3 +39,5 @@ Actividad de los autores de cada uno de los proyectos analizados
 ### Areas de Codigo
 
 ![red_social_project]({{ site.baseurl }}/assets/images/areas_codigo.png)
+
+### Areas
