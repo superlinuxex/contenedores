@@ -28,19 +28,11 @@ Lo proyectos alojados en Git que hemos analizado son:
 
 Con los datos procesados por Grimoirelab hemos creado  en Kibana varias visualizaciones que nos han permito realizar el análisis de la actividad y la relación que mantienen estos proyectos.
 
-* **Commit** ejecutados en el repositorio Git por los autores agrupados por semana y la media agrupados por 4 semanas
+* Repositorio Git **Commit** ejecutados por los autores agrupados por semana y la media agrupados por 4 semanas
 
 ![red_social_projectcommitAuthor]({{ site.baseurl }}/assets/images/commitAuthor.png)
 Actividad de los autores de cada uno de los proyectos analizados
 
-
-### Relacion entre los proyectos 
-
-![red_social_project]({{ site.baseurl }}/assets/images/red_social_project.png)
-
-### Areas de Codigo
-
-![red_social_project]({{ site.baseurl }}/assets/images/areas_codigo.png)
 
 ### Actividad de los repositorios
 ![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadProyectos.png)
