@@ -33,7 +33,7 @@ Con los datos procesados por Grimoirelab hemos creado  en Kibana varias visualiz
 
 ![red_social_projectcommitAuthor]({{ site.baseurl }}/assets/images/commitAuthor.png)
 
-* **Comparacion Actividad 2019 -2020** ejecutados por los autores agrupados por semana y la media agrupados por 4 semanas
+* **Comparacion Actividad 2019 -2020** Comparando la actividad entre 2019 y 2020 se observa que un incremento de la actividad en los meses de  todos estos meses que llevamos de pandemia.
 
 ![red_social_projectcommitAuthor]({{ site.baseurl }}/assets/images/ActividadComparadaAñoAnterior.png)
 
