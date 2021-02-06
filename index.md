@@ -31,7 +31,7 @@ Con los datos procesados por Grimoirelab hemos creado  en Kibana varias visualiz
 
 * **Actividad Commit**
 
-Ejecutados por los autores agrupados por semana y la media agrupados por 4 semanas
+Ejecutados por los autores agrupados por semana y la media agrupados por 4 semanas.
 
 ![commitAuthor]({{ site.baseurl }}/assets/images/commitAuthor.png)
 
