@@ -21,21 +21,18 @@ Lo proyectos alojados en Git que hemos analizado son:
 * Kubernetes
 * Docker
 * Coreos
-* Cointainer
-* Ansible
-* Chef
-* Puppet
+
 
 Con los datos procesados por Grimoirelab hemos creado  en Kibana varias visualizaciones que nos han permito realizar el análisis de la actividad y la relación que mantienen estos proyectos.
+
+
+### Actividad de los repositorios
+![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadProyectos.png)
 
 * Repositorio Git **Commit** ejecutados por los autores agrupados por semana y la media agrupados por 4 semanas
 
 ![red_social_projectcommitAuthor]({{ site.baseurl }}/assets/images/commitAuthor.png)
 Actividad de los autores de cada uno de los proyectos analizados
-
-
-### Actividad de los repositorios
-![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadProyectos.png)
 
 ### Actividad Openshift
 ![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadOpenshift.png)
