@@ -29,17 +29,20 @@ Con los datos procesados por Grimoirelab hemos creado  en Kibana varias visualiz
 ### Actividad de los repositorios
 ![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadProyectos.png)
 
-* **Actividad Commit** 
+* **Actividad Commit**
+
 Ejecutados por los autores agrupados por semana y la media agrupados por 4 semanas
 
 ![red_social_projectcommitAuthor]({{ site.baseurl }}/assets/images/commitAuthor.png)
 
-* **Comparacion Actividad 2019 -2020** 
+* **Comparacion Actividad 2019 -2020**
+
 Comparando la actividad de los 4 proyectos entre 2019 y 2020 se observa que un incremento de la actividad en los meses de abril, agosto, octubre y diciembre  todos estos meses que llevamos de pandemia.
 
 ![red_social_projectcommitAuthor]({{ site.baseurl }}/assets/images/ActividadComparadaAñoAnterior.png)
 
-* **Tendencia Actividad 2020** 
+* **Tendencia Actividad 2020**
+
 La tendencia de la actividad de la suma de estos 4 proyectos tiene una ligero decreccimiento cuando se acerca a fin de año.
 
 ![red_social_projectcommitAuthor]({{ site.baseurl }}/assets/images/TendenciaActividadRepositoro.png)
