@@ -44,3 +44,13 @@ Actividad de los autores de cada uno de los proyectos analizados
 
 ### Actividad de los repositorios
 ![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadProyectos.png)
+
+### Actividad Openshift
+![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadOpenshift.png)
+### Actividad Kubernetes
+![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadKubernetes.png)
+### Actividad Docker
+![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadDocker.png)
+### Actividad CoreOS
+![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadCoreos.png)
+
