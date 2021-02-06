@@ -1,9 +1,11 @@
-I"$<h2 id="introducción">Introducción</h2>
+I"�<p><img src="/assets/images/ActividadProyectos.png" alt="red_social_project" /></p>
+
+<h2 id="introducción"><strong>Introducción</strong></h2>
 
 <p>El Open Source o código abierto ha cambiado la cultura de trabajo de los desarrolladores, supone un nuevo modelo de trabajo al que se están sumando las grandes compañías, esta nueva forma de colaboración esta alterando las reglas del juego en el mundo tecnológico y empresarial. El open source de esta era trata mas de estrategias comerciales corporativas que de comunidades independientes colaborando entre ellas. 
 Hemos seleccionado 6 proyectos open source que utilizan git como herramienta de colaboración. En este análisis nos centramos en la actividad de los desarrolladores tomando como referencia los 10 últimos meses contando desde marzo que fue cuando inicio de la pandemia del COVID-19.</p>
 
-<h2 id="metodología">Metodología</h2>
+<h2 id="metodología"><strong>Metodología</strong></h2>
 
 <p>Hemos utilizado <strong>GrimoireLab</strong> que es un conjunto de herramientas  open source basadas en Python para recuperar, organizar y visualizar datos relacionados con el desarrollo de software (Commit, Issues, Autores, Colaboradores).
 Lo proyectos alojados en Git que hemos analizado son:</p>
@@ -13,8 +15,8 @@ Lo proyectos alojados en Git que hemos analizado son:</p>
   <li>Kubernetes</li>
   <li>Docker</li>
   <li>Coreos</li>
-  <li>Ansible</li>
   <li>Cointainer</li>
+  <li>Ansible</li>
   <li>Chef</li>
   <li>Puppet</li>
 </ul>
@@ -22,7 +24,7 @@ Lo proyectos alojados en Git que hemos analizado son:</p>
 <p>Con los datos procesados por Grimoirelab hemos creado  en Kibana varias visualizaciones que nos han permito realizar el análisis de la actividad y la relación que mantienen estos proyectos.</p>
 
 <ul>
-  <li>Actividad en el repositorio Git de cada  <strong>commit</strong>  ejecutado por los autores agrupados por semana y la media móvil agrupados por 4 semanas</li>
+  <li>Actividad en el repositorio en Git de cada <strong>commit</strong> ejecutado en el repositorio Git por los autores agrupados por semana y la media agrupados por 4 semanas</li>
 </ul>
 
 <p><img src="/assets/images/commitAuthor.png" alt="red_social_projectcommitAuthor" />
@@ -35,4 +37,6 @@ Actividad de los autores de cada uno de los proyectos analizados</p>
 <h3 id="areas-de-codigo">Areas de Codigo</h3>
 
 <p><img src="/assets/images/areas_codigo.png" alt="red_social_project" /></p>
+
+<h3 id="areas">Areas</h3>
 :ET

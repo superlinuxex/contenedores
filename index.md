@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+![red_social_project]({{ site.baseurl }}/assets/images/ActividadProyectos.png)
+
 
 
 ## **Introducción**
