@@ -48,11 +48,15 @@ La tendencia de la actividad de la suma de estos 4 proyectos tiene una ligero de
 ![TendenciaActividadRepositoro]({{ site.baseurl }}/assets/images/TendenciaActividadRepositoro.png)
 
 ### Actividad Openshift
+
 ![ActividadOpenshif]({{ site.baseurl }}/assets/images/ActividadOpenshift.png)
 ### Actividad Kubernetes
+
 ![ActividadKubernetes]({{ site.baseurl }}/assets/images/ActividadKubernetes.png)
 ### Actividad Docker
+
 ![ActividadDocker]({{ site.baseurl }}/assets/images/ActividadDocker.png)
 ### Actividad CoreOS
+
 ![ActividadCoreos]({{ site.baseurl }}/assets/images/ActividadCoreos.png)
 
