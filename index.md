@@ -27,6 +27,9 @@ Con los datos procesados por Grimoirelab hemos creado  en Kibana varias visualiz
 
 
 ### Actividad de los repositorios
+
+La actividad total de los 4 proyectos.
+
 ![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadProyectos.png)
 
 * **Actividad Commit**
