@@ -29,10 +29,17 @@ Con los datos procesados por Grimoirelab hemos creado  en Kibana varias visualiz
 ### Actividad de los repositorios
 ![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadProyectos.png)
 
-* Repositorio Git **Commit** ejecutados por los autores agrupados por semana y la media agrupados por 4 semanas
+* **Commit** ejecutados por los autores agrupados por semana y la media agrupados por 4 semanas
 
 ![red_social_projectcommitAuthor]({{ site.baseurl }}/assets/images/commitAuthor.png)
-Actividad de los autores de cada uno de los proyectos analizados
+
+* **Comparacion Actividad 2019 -2020** ejecutados por los autores agrupados por semana y la media agrupados por 4 semanas
+
+![red_social_projectcommitAuthor]({{ site.baseurl }}/assets/images/ActividadComparadaAñoAnterior.png)
+
+* **Tendencia Actividad 2020** ejecutados por los autores agrupados por semana y la media agrupados por 4 semanas
+
+![red_social_projectcommitAuthor]({{ site.baseurl }}/assets/images/TendenciaActividadRepositoro.png)
 
 ### Actividad Openshift
 ![ActividadProyectos]({{ site.baseurl }}/assets/images/ActividadOpenshift.png)
