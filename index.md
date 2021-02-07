@@ -74,3 +74,9 @@ La participación de determinadas empresas que contribuyen en estos proyectos es
 
 * Las empresas que colaboran y contribuyen al desarrollo de estos proyectos lo hacen por su necesidad tecnológica y estrategia de negocio.
 * La pandemia no ha sido amenaza para el desarrollo de estos proyectos que como se ha visto en términos generales hay una tendencia creciente en su actividad. 
+
+
+
+
+## Publicado por Alex Martínez
+## email: superlinuxec@gmail.com
