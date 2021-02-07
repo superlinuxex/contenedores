@@ -48,7 +48,7 @@ Comparando la actividad de los 4 proyectos entre 2019 y 2020 se observa que un i
 
 La tendencia de la actividad de la suma de estos 4 proyectos tiene una ligero decreccimiento cuando se acerca a fin de año.
 
-![TendenciaActividadRepositoro]({{ site.baseurl }}/assets/images/TendenciaActividadRepositoro.png)
+![TendenciaActividadRepositoro]({{ site.baseurl }}/assets/images/TendenciaActividadRepositorio.png)
 
 ### Actividad Openshift
 
